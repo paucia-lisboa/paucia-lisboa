@@ -16,7 +16,7 @@
 <div>
 
  <a href="https://github.com/paucia-lisboa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paucia-lisboa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="github-readme-stats-wheat-psi.vercel.app/api?username=paucia-lisboa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paucia-lisboa&layout=copaucia-lisboampact&langs_count=7&theme=dark"/>
 </div>
 

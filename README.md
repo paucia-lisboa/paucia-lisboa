@@ -31,7 +31,8 @@ const stebs = {
             },
             backEnd: {
                 Javascript: ['Node.js', 'Express'],
-                Java: ['Spring Boot'],           
+                Java: ['Spring Boot'],
+                Outras: ['PHP', 'Python'],
             },
             Certification: ['AWS Cloud Practitioner', 'AWS Certified Solutions Architect - Associate'],
             },
@@ -39,9 +40,9 @@ const stebs = {
                 AWS: ['Teaching']
             },
             OS: {
-                Windows: ['Windows 11', 'Windows Server'],
+                Windows: ['windows 11', 'Windows Server'],
                 Linux: ['debian'. 'ubuntu']
-        },
+           },
         }
  }
 ```

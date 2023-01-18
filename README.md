@@ -64,8 +64,4 @@ const stebs = {
  
 ##
  
-<div>
- 
-<!-- ![Snake animation](https://github.com/paucia-lisboa/paucia-lisboa/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div> 
+

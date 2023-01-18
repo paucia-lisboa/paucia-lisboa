@@ -8,6 +8,10 @@
 - 😄 Pronouns: ela/dela/she/her
 
 <div>
+ <img align="center" alt="git-gif" height="150" style="border-radius:50px;" src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200">
+</div> 
+
+<div>
 
  <a href="https://github.com/paucia-lisboa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paucia-lisboa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -41,7 +45,6 @@
  <a href="mailto:paucia.renan@cs365.online" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/paucinha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/paucinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <img align="right" alt="git-gif" height="150" style="border-radius:50px;" src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200">
 </div>
 
 

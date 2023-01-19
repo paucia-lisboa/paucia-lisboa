@@ -24,26 +24,28 @@ const stebs = {
     },
     technical: {
         technologies: {
-            frontEnd: {
+            BackEnd: {
+                Javascript: ['Express', 'Node.js'],
+                Java: ['Spring Boot'],
+                Outras: ['PHP', 'Python'],
+            },
+            FrontEnd: {
                 Javascript: ['Angular'],
                 HTML: ['HTML5'],
                 CSS: ['styled-components', 'Bootstrap'],
             },
-            backEnd: {
-                Javascript: ['Node.js', 'Express'],
-                Java: ['Spring Boot'],
-                Outras: ['PHP', 'Python'],
-            },
-            Certification: ['AWS Cloud Practitioner', 'AWS Certified Solutions Architect - Associate'],
+            Database: ['AWS Cloud Practitioner', 'AWS Certified Solutions Architect - Associate'],
             },
             Cloud Computing: {
-                AWS: ['Teaching']
+                AWS: ['Technical Trainer']
             },
             OS: {
                 Windows: ['windows 11', 'Windows Server'],
                 Linux: ['debian'. 'ubuntu']
            },
-        }
+           Certifications: ['AWS Cloud Practitioner', 'AWS Certified Solutions Architect - Associate'],
+           },
+       }
  }
 ```
   
@@ -63,5 +65,3 @@ const stebs = {
  
  
 ##
- 
-

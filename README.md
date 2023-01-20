@@ -16,7 +16,7 @@ const stebs = {
         fullName: 'Paucia Lira Nunes Lisboa',
         birthDate: '1982-08-28',
         pronouns: 'she' | 'her',
-        interests: ['music', 'games', 'language learning', 'movies'],
+        interests: ['music', 'games', 'movies', language learning'],
         motivation: [
             'Help Digital Inclusion',
             'Making life easier and smarter through tech',
@@ -25,7 +25,7 @@ const stebs = {
     technical: {
         technologies: {
             BackEnd: {
-                Javascript: ['Express', 'Node.js'],
+                Javascript: ['Express', 'Node.js', 'PHP'],
                 Java: ['Spring Boot'],
                 Outras: ['PHP', 'Python'],
             },

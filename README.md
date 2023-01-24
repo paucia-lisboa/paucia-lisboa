@@ -11,12 +11,12 @@
  <div align="left">
  
  ``` js
-const stebs = {
+const plnl = {
     personal: {
         fullName: 'Paucia Lira Nunes Lisboa',
         birthDate: '1982-08-28',
         pronouns: 'she' | 'her',
-        interests: ['music', 'games', 'movies', language learning'],
+        interests: ['music', 'movies', 'language learning', 'technology learning'],
         motivation: [
             'Help Digital Inclusion',
             'Making life easier and smarter through tech',
@@ -25,26 +25,27 @@ const stebs = {
     technical: {
         technologies: {
             BackEnd: {
-                Javascript: ['Express', 'Node.js', 'PHP'],
-                Java: ['Spring Boot'],
-                Outras: ['PHP', 'Python'],
+                Javascript: ['Express.js', 'Node.js'],
+                Java: ['Puro','Spring Boot'],
+                Python: ['Django'],
             },
             FrontEnd: {
                 Javascript: ['Angular'],
                 HTML: ['HTML5'],
                 CSS: ['styled-components', 'Bootstrap'],
             },
-            Database: ['AWS Cloud Practitioner', 'AWS Certified Solutions Architect - Associate'],
+            Database: ['MySQL', 'PostgreSQL'],
             },
-            Cloud Computing: {
-                AWS: ['Technical Trainer']
-            },
+            C
             OS: {
                 Windows: ['windows 11', 'Windows Server'],
-                Linux: ['debian'. 'ubuntu']
+                Linux: ['debian'. 'ubuntu'],
            },
-           Certifications: ['AWS Cloud Practitioner', 'AWS Certified Solutions Architect - Associate'],
+           Cloud Computing: {
+               AWS: ['instructor in the AWS re/Start program', Solutions Architect],
            },
+           Certifications: ['AWS Cloud Practitioner', 'AWS Solutions Architect - Associate'],
+          },
        }
  }
 ```

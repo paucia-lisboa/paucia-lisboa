@@ -51,11 +51,11 @@ const plnl = {
     }
 }
 ```
-  
+-->  
  </div>
 </details>
 
--->
+
  
 [![Linkedin: paucia](https://img.shields.io/badge/Paucia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paucia-lisboa/)](https://www.linkedin.com/in/paucia-lisboa/)
 [![GitHub: paucia-lisboa](https://img.shields.io/github/followers/paucia?label=follow&style=social)](https://github.com/https://github.com/paucia-lisboa)

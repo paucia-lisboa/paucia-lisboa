@@ -44,10 +44,11 @@ const plnl = {
            Cloud Computing: {
                AWS: ['instructor in the AWS re/Start program', Solutions Architect],
            },
-           Certifications: ['AWS Cloud Practitioner', 'AWS Solutions Architect - Associate'],
-          },
-       }
- }
+           Certifications: {
+           AWS: ['AWS Cloud Practitioner', 'AWS Solutions Architect - Associate'],
+           },
+    }
+}
 ```
   
  </div>

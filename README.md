@@ -43,7 +43,7 @@ const plnl = {
                 Linux: ['debian'. 'ubuntu'],
            },
            Cloud Computing: {
-               AWS: ['instructor in the AWS re/Start program', Solutions Architect],
+               AWS: ['instructor in the AWS re/Start program', 'Solutions Architect'],
            },
            Certifications: {
            AWS: ['AWS Cloud Practitioner', 'AWS Solutions Architect - Associate'],

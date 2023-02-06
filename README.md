@@ -26,12 +26,12 @@ const plnl = {
     technical: {
         technologies: {
             BackEnd: {
-                Javascript: ['Express.js', 'Node.js'],
+                Javascript: ['Express.js', 'Node.js', 'TypeScript'],
                 Java: ['Puro','Spring Boot'],
                 Python: ['Django'],
             },
             FrontEnd: {
-                Javascript: ['Angular'],
+                Javascript: ['Angular', 'TypeScript'],
                 HTML: ['HTML5'],
                 CSS: ['styled-components', 'Bootstrap'],
             },

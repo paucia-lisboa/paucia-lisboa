@@ -28,7 +28,6 @@ const plnl = {
             BackEnd: {
                 Javascript: ['Express.js', 'Node.js', 'TypeScript'],
                 Java: ['Puro','Spring Boot'],
-                Python: ['Django'],
             },
             FrontEnd: {
                 Javascript: ['Angular', 'TypeScript'],

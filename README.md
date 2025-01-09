@@ -3,6 +3,8 @@
 [![Linkedin: paucia](https://img.shields.io/badge/Paucia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paucia-lisboa/)](https://www.linkedin.com/in/paucia-lisboa/)
 [![GitHub: paucia-lisboa](https://img.shields.io/github/followers/paucia?label=follow&style=social)](https://github.com/https://github.com/paucia-lisboa)
 [![Twitter: paucinha](https://img.shields.io/twitter/follow/paucinha?style=social)](https://twitter.com/paucinha)
+
+### 📊 Estatísticas no GitHub
  
 <div align="center"> 
 <a href="https://github.com/paucinha">

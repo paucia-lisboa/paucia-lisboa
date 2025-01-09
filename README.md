@@ -5,6 +5,8 @@
 [![Twitter: paucinha](https://img.shields.io/twitter/follow/paucinha?style=social)](https://twitter.com/paucinha)
 
 ### 📊 Estatísticas no GitHub
+
+![paucia-lisboa's GitHub stats](https://github-readme-stats.vercel.app/api?username=paucia-lisboa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
  
 <div align="center"> 
 <a href="https://github.com/paucinha">

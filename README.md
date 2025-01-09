@@ -3,58 +3,7 @@
 ##
 
 
-<div align="center">
- <!--
- <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200"/>
---> 
-<details>
- <summary> More about me</summary>
- <div align="left">
- 
- ``` js
-const plnl = {
-    personal: {
-        fullName: 'Paucia Lira Nunes Lisboa',
-        birthDate: '1982-08-28',
-        pronouns: 'she' | 'her',
-        interests: ['music', 'movies', 'language learning', 'technology learning'],
-        motivation: [
-            'Help Digital Inclusion',
-            'Making life easier and smarter through tech',
-        ],
-    },
-    technical: {
-        technologies: {
-            BackEnd: {
-                Javascript: ['Express.js', 'Node.js', 'TypeScript'],
-                Java: ['Puro','Spring Boot'],
-                Python: [],
-            },
-            FrontEnd: {
-                Javascript: ['Angular', 'TypeScript'],
-                HTML: ['HTML5'],
-                CSS: ['styled-components', 'Bootstrap'],
-            },
-            Database: ['MySQL', 'PostgreSQL'],
-            },
-            C
-            OS: {
-                Windows: ['windows 11', 'Windows Server'],
-                Linux: ['debian'. 'ubuntu'],
-           },
-           Cloud Computing: {
-               AWS: ['instructor in the AWS re/Start program', 'Solutions Architect'],
-           },
-           Certifications: {
-           AWS: ['AWS Cloud Practitioner', 'AWS Solutions Architect - Associate'],
-           },
-    }
-}
-```
--->
-  
- </div>
-</details>
+
 
 
  
